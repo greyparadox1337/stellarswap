@@ -28,7 +28,7 @@ StellarSwap is an institutional-grade Decentralized Exchange (DEX) protocol buil
 
 | Protocol Hub | Mobile Responsive View |
 |:---:|:---:|
-| ![Protocol Hub](assets/protocol-hub.png) | *[Screenshot Placeholder: Use browser DevTools mobile breakpoint]* |
+| ![Protocol Hub](assets/protocol-hub.png) | ![Mobile View](assets/protocol-mobile.png) |
 
 ## 🏗️ Technical Architecture
 
